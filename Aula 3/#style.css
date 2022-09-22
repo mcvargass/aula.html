@@ -1,0 +1,23 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    }
+
+
+    html{
+        background-color: brown;
+    }
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+}
